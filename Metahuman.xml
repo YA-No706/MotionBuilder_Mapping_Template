@@ -172,22 +172,22 @@
         <item value="" key="RightInFootExtraFinger"/>
         <item value="" key="LeftShoulderExtra"/>
         <item value="" key="RightShoulderExtra"/>
-        <item value="" key="LeafLeftUpLegRoll1"/>
-        <item value="" key="LeafLeftLegRoll1"/>
-        <item value="" key="LeafRightUpLegRoll1"/>
-        <item value="" key="LeafRightLegRoll1"/>
-        <item value="" key="LeafLeftArmRoll1"/>
-        <item value="" key="LeafLeftForeArmRoll1"/>
-        <item value="" key="LeafRightArmRoll1"/>
-        <item value="" key="LeafRightForeArmRoll1"/>
-        <item value="" key="LeafLeftUpLegRoll2"/>
-        <item value="" key="LeafLeftLegRoll2"/>
-        <item value="" key="LeafRightUpLegRoll2"/>
-        <item value="" key="LeafRightLegRoll2"/>
-        <item value="" key="LeafLeftArmRoll2"/>
-        <item value="" key="LeafLeftForeArmRoll2"/>
-        <item value="" key="LeafRightArmRoll2"/>
-        <item value="" key="LeafRightForeArmRoll2"/>
+        <item value="thigh_twist_01_l" key="LeafLeftUpLegRoll1"/>
+        <item value="calf_twist_02_l" key="LeafLeftLegRoll1"/>
+        <item value="thigh_twist_01_r" key="LeafRightUpLegRoll1"/>
+        <item value="calf_twist_02_r" key="LeafRightLegRoll1"/>
+        <item value="upperarm_twist_01_l" key="LeafLeftArmRoll1"/>
+        <item value="lowerarm_twist_02_l" key="LeafLeftForeArmRoll1"/>
+        <item value="upperarm_twist_01_r" key="LeafRightArmRoll1"/>
+        <item value="lowerarm_twist_02_r" key="LeafRightForeArmRoll1"/>
+        <item value="thigh_twist_02_l" key="LeafLeftUpLegRoll2"/>
+        <item value="calf_twist_01_l" key="LeafLeftLegRoll2"/>
+        <item value="thigh_twist_02_r" key="LeafRightUpLegRoll2"/>
+        <item value="calf_twist_01_r" key="LeafRightLegRoll2"/>
+        <item value="upperarm_twist_02_l" key="LeafLeftArmRoll2"/>
+        <item value="lowerarm_twist_01_l" key="LeafLeftForeArmRoll2"/>
+        <item value="upperarm_twist_02_r" key="LeafRightArmRoll2"/>
+        <item value="lowerarm_twist_01_r" key="LeafRightForeArmRoll2"/>
         <item value="" key="LeafLeftUpLegRoll3"/>
         <item value="" key="LeafLeftLegRoll3"/>
         <item value="" key="LeafRightUpLegRoll3"/>
