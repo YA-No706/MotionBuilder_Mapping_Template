@@ -153,10 +153,10 @@
         <item value="pinky_metacarpal_l" key="LeftInHandPinky"/>
         <item value="" key="LeftInHandExtraFinger"/>
         <item value="" key="RightInHandThumb"/>
-        <item value="" key="RightInHandIndex"/>
-        <item value="" key="RightInHandMiddle"/>
-        <item value="" key="RightInHandRing"/>
-        <item value="" key="RightInHandPinky"/>
+        <item value="index_metacarpal_r" key="RightInHandIndex"/>
+        <item value="middle_metacarpal_r" key="RightInHandMiddle"/>
+        <item value="ring_metacarpal_r" key="RightInHandRing"/>
+        <item value="pinky_metacarpal_r" key="RightInHandPinky"/>
         <item value="" key="RightInHandExtraFinger"/>
         <item value="" key="LeftInFootThumb"/>
         <item value="" key="LeftInFootIndex"/>
