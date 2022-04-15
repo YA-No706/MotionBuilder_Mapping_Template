@@ -17,7 +17,7 @@
         <item value="hand_r" key="RightHand"/>
         <item value="head" key="Head"/>
         <item value="ball_l" key="LeftToeBase"/>
-        <item value="ball_" key="RightToeBase"/>
+        <item value="ball_r" key="RightToeBase"/>
         <item value="clavicle_l" key="LeftShoulder"/>
         <item value="clavicle_r" key="RightShoulder"/>
         <item value="neck_01" key="Neck"/>
